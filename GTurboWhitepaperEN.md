@@ -2,12 +2,12 @@
 
 ### Brief description of the project 
 
-The GTurbo project[<sup>[1]</sup>](#references) combines advanced technologies in the field of finance and industrial production of GTT-3PN gas turbine units.
+The GTurbo project combines advanced technologies in the field of finance and industrial production of GTT-3PN gas turbine units.
 
 Gas turbines GTT-3 (M) and GTT-3PN are used in UKL-7 units for the production of non-concentrated nitric acid. It is the basis for production of nitrate nitrogen fertilizers (ammonium nitrate and its modifications), as well as complex fertilizers (containing nitrogen, phosphorus and potassium). The industry of nitric acid in the countries of the former USSR still remains the largest in the world. Gas turbines are designed and produced by 5 countries in the world including Russia.
 
 Compared with GTT-3M, the new turbine GTT-3PN allows to produce 24,000 more tons of nitric acid per year (22% of the total production of one turbine per year), which is equivalent to a gain of $ 3.5 million per year. 
-Decentralized direct investment in the project will be implemented through the purchase of the GTurbo option. The GTurbo financial instrument will be launched on the Ethereum blockchain platform[<sup>[2]</sup>](#references).
+Decentralized direct investment in the project will be implemented through the purchase of the GTurbo option. The GTurbo financial instrument will be launched on the Ethereum blockchain platform.
 
 ### Definitions 
 
@@ -35,17 +35,17 @@ This solution will allow to obtain a significant economic effect due to changes 
 
 ### Project summary. Commercial component of the project
 
-This project assumes crowdfunding investment in the GTurbo derivative (see the definition above), which is implemented as a financial instrument on the Ethereum blockbchain platform[<sup>[2]</sup>](#references) and is ensured with gas turbine unit GTT-3PN industrial product.
+This project assumes crowdfunding investment in the GTurbo derivative (see the definition above), which is implemented as a financial instrument on the Ethereum blockbchain platform and is ensured with gas turbine unit GTT-3PN industrial product.
 
 The main stages of the project are: "Fundraising (pre-ICO)", "Fundraising (ICO)", "Production" and "Buy-back". The road map of the project is as follows:
 
 Stage 1 "Fundraising (pre-ICO)" December 2017 - January 2018.
 Pre-ICO for the acquisition of GTurbo options using Ethereum blockchain. The cost of the token will be $ 0.05, with a total of 26,000,000 tokens put out for sale (a total of 416,000,000 GTurbo tokens will be issued). On the first day of pre-ICO, a "bonus" of 30% of the purchased number of tokens will be available. Pre-ICO collected funds will generate a marketing budget for the ICO.
-Note: additional information will be posted on the project website[<sup>[1]</sup>](#references).
+Note: additional information will be posted on the project website.
 
 Stage 2 "Fundraising (ICO)" February-March 2018.
 Running ICO for acquisition of GTurbo options using Ethereum. The cost of the token will be $ 0.1, only 390,000,000 tokens will be put up for sale. On the first day of ICO, a "bonus" of 30% of the purchased number of tokens will be available. ICO collected funds will form investment budget to upscale the capacity of gas turbines.
-Note: additional information will be posted on the project website[<sup>[1]</sup>](#references).
+Note: additional information will be posted on the project website.
 
 Stage 3 "Production". March - June 2018 - modernization of business processes to increase capacity and start production of turbines with new business logic. June 2018 - June 2019 - the first cycle of production of turbines.
 
@@ -83,23 +83,21 @@ Current revenues associated with the daily operation of the plant are presented 
 | Indicator name | Value |
 | --- | --- |
 | The volume of production of GTT-3PN gas turbine unit (pcs) | 3 |
-| Average cost of production of 1 turbine (rub.) | 250 000 000 |
-| Average cost of 1 turbine (rub.) | 500 000 000 |
-| **Total income per year (rub.)** | **1 500 000 000** |
+| Average cost of production of 1 turbine (rub.) | $4,166,667 |
+| Average cost of 1 turbine (rub.) | $8,333,333 |
+| **Total income per year (rub.)** | **$25,000,000** |
 
 Note: *the billing period is defined as 1 year.*
+Note: *the exchange rate RUB/USD is taken 60*
 
-Planned revenues from the plant's activities for the year should be 1.5 billion rubles. With large volumes of production, it is possible to scale up to 10 gas turbines a year.
+Planned revenues from the plant's activities for the year should be $25 million. With large volumes of production, it is possible to scale up to 10 gas turbines a year.
 
 ### Project summary
 
 The GTurbo project team consists of developers of innovative technologies, technologists, scientists-experts, managers, economists with experience in industry and finance.
 
 Anurov Yury Mikhailovich, Doctor of Technical Sciences, Director of the Center for Conceptual Design.
-Toropov Oleg Vladimirovich, PhD in Technical Science, director of the Engineering Center.
-The main designers of gas turbines (at different times): Fedorchenko D. G., PhD in Technical Sciences; Shirmanov V. M. PhD in Technical Sciences; Mironov Yu.R. PhD in Technical Sciences;
-Chief designer of turbo generators: Khutoretsky G.M., Doctor of Technical Sciences, professor.
-Specialists: Suslikov V., PhD in Technical Sciences; Pushkarev A. D., PhD in Technical Sciences; Pavlov P., PhD in Technical Sciences; Uflyand G., PhD in Technical Sciences, Associate Professor; Arefiev B. V., PhD in Technical Sciences; Efimov V.S., PhD in Technical Sciences.
+
 The organizers of the project have publications, scientific articles, author's certificates and patents, corresponding to specialization in industry.
 
 The members of the team have the experience of business cooperation with the largest enterprises of Russia: OJSC AKRON (Veliky Novgorod), KOAO Azot (Kemerovo), JSC Minudobrenia (Rossosh), Fergana Azot (Fergana), JSC Azot , JSC Azot (Kemerovo), ZMU KChKK (Kirovo-Chepetsk), Gazprom, and others.
@@ -111,7 +109,7 @@ The experts of the team have experience of cooperation with industrial, construc
 The participation of investors in the project involves the purchase of the GTurbo derivative, which is implemented as a financial instrument on the Ethereum blockchain platform;[<sup>2</sup>](#references) in its turn, GTurbo is secured by an industrial product - GTT-3PN gas turbine unit.The sale of GTurbo options will occur within the ICO (at the 1st and 2nd stages of the project - in December 2017 - March 2018). The acquisition of GTurbo options can be carried out with the help of the Ethereum blockchain.
 
 In the early days, the option will be offered to investors "with a bonus" from the base cost of the GTurbo asset. A more detailed description of the terms of investment in the GTurbo option is available on the project website.[<sup>1</sup>](#references)
-The presented technology for the production of the GTT-3PN gas turbine unit is an existing production facility with an annual turnover of more than 1 billion rubles.
+The presented technology for the production of the GTT-3PN gas turbine unit is an existing production facility with an annual turnover of more than $16 million.
 The GTT-3PN gas turbine has a specific advantage over its "predecessor" GTT-3M, as well as higher service characteristics. This technology is in demand by the market, as the whole world uses ammonium nitrate in agriculture - fertilizer that can not be produced without our gas turbine units!
 
 ### References
