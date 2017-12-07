@@ -82,7 +82,7 @@ Current revenues associated with the daily operation of the plant are presented 
 
 | Indicator name | Value |
 | --- | --- |
-| The volume of production of GTT-3PN gas turbine unit (pcs) | 3 |
+| The volume of production of GTT-3PN gas turbine unit (units) | 3 |
 | Average cost of production of 1 turbine | $4,166,667 |
 | Average cost of 1 turbine | $8,333,333 |
 | **Total income per year (rub.)** | **$25,000,000** |
