@@ -96,7 +96,14 @@ Planned revenues from the plant's activities for the year should be $25 million.
 
 The GTurbo project team consists of developers of innovative technologies, technologists, scientists-experts, managers, economists with experience in industry and finance.
 
-Anurov Yury Mikhailovich, Doctor of Technical Sciences, Director of the Center for Conceptual Design.
+Sergey Vladimirov, Phd of Economics, Professor, Academician of the Russian Academy of Natural Sciences (RAE). 
+Leningrad Military Space Academy named after AF Mojajsky, qualification - the engineer-inspector of technical supervision of especially important ground and underground constructions.
+
+Vitaly Filipov, The economist, the manager, the developer of financial technologies in the banking, state, investment spheres. Vitaly was involved in investment campaigns to attract investments in the industrial sector, in particular, with the support of the state..
+
+Ivan Andrysiak, Applicant of the Candidate's Degree in Pedagogical Sciences "NATIONAL STATE UNIVERSITY OF PHYSICAL CULTURE, SPORTS AND HEALTH. P.F. LESGAFT", St. Petersburg.
+
+Oleg Prokura, Academician of the International Academy of Social Technologies, Oleg's qualification is a teacher-specialist in adult education and educational activities.
 
 The organizers of the project have publications, scientific articles, author's certificates and patents, corresponding to specialization in industry.
 
