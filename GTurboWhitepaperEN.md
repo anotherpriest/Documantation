@@ -85,7 +85,7 @@ Current revenues associated with the daily operation of the plant are presented 
 | The volume of production of GTT-3PN gas turbine unit (units) | 3 |
 | Average cost of production of 1 turbine | $4,166,667 |
 | Average sale price of 1 turbine | $8,333,333 |
-| **Total income per year** | **$25,000,000** |
+| **Total turnover per year** | **$25,000,000** |
 
 Note: *the billing period is defined as 1 year.*
 Note: *the exchange rate RUB/USD is taken 60*
